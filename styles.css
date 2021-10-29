@@ -1,0 +1,22 @@
+body {
+color: blue; 
+}
+
+h1 {
+	text-align: center;
+}
+
+.container {
+	background-color: gray;
+	text-align: center;
+	 width:100%;
+   max-width: 700px;
+   margin: 0px auto;
+}
+
+ul {
+		font-size: 2em; 
+		background-color: #d3d3d3;
+		border-style: solid;
+
+}
